@@ -16,7 +16,7 @@
 
 **Me envie uma mensagem:**
 <p align="left">
-  <a href="mailto:rinielrodrigo555@gmail.com?subject=Assunto da Mensagem&body=Corpo da Mensagem" alt="Gmail">
+  <a href="mailto:rinielrodrigo555@email.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/riniel-rodrigo-2319b9261/" alt="LinkedIn">
