@@ -1,7 +1,7 @@
 - 👀 Olá, Meu nome é Riniel Rodrigo!
 - 🏠 Sou de Belo Horizonte (MG).
 - 🎈 Tenho 19 anos.
-- 🖥 Um grande interesse em técnologia e desenvolvimento.
+- 🖥 Possuo Um grande interesse em técnologia e desenvolvimento.
 - 🎓 Atualmente estou estudando ADS e desenvolvimento WEB.
 
 **Skills / Learning**
