@@ -16,14 +16,14 @@
 
 **Me envie uma mensagem:**
 <p align="left">
-  <a href="mailto:rinielrodrigo555@email.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
-  &nbsp;
+  
   <a href="https://www.linkedin.com/in/riniel-rodrigo-2319b9261/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
   &nbsp;
   <a href="https://api.whatsapp.com/send?phone=31988537686" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <a href="mailto:rinielrodrigo555@gmail.com">rinielrodrigo555@gmail.com</a>
+  
 
 
   
