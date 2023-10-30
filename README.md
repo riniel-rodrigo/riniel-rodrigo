@@ -14,7 +14,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  &nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Me envie uma mensagem:**
+**Contato**
 <p align="left">
   
   <a href="https://www.linkedin.com/in/riniel-rodrigo-2319b9261/" alt="LinkedIn">
