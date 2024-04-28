@@ -2,7 +2,7 @@
 
 Sou Riniel, moro em **<img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> Belo Horizonte, Minas Gerais**. Adoro tecnologia e estou sempre em busca do que ela tem a oferecer.
 
-📲 sinta-se à vontade para explorar meu portfólio neste link: https://riniel-portfolio.vercel.app/ <br>
+📲 Sinta-se à vontade para explorar meu portfólio neste link: https://riniel-portfolio.vercel.app/ <br>
 
 ## Sobre mim 📖
 - 👀 Meu nome é Riniel Rodrigo!
