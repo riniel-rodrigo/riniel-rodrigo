@@ -1,10 +1,11 @@
 ### Olá! Seja bem vindo ao meu perfil! 👋
 
-Sou Riniel, adoro tecnologia e estou sempre em busca do que este mundo tem a oferecer.
+Sou Riniel, moro em **<img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> Belo Horizonte, Minas Gerais**. Adoro tecnologia e estou sempre em busca do que ela tem a oferecer.
+
+📲 sinta-se à vontade para explorar meu portfólio neste link: https://riniel-portfolio.vercel.app/ <br>
 
 ## Sobre mim 📖
 - 👀 Meu nome é Riniel Rodrigo!
-- 🏡 Sou de Belo Horizonte, Minas Gerais. <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/>
 - 🖥 Possuo um grande interesse em técnologia e desenvolvimento.
 - 🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC-MINAS e também outros cursos paralelos focados em desenvolvimento WEB.
 
