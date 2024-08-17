@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Sou Riniel Rodrigo, adoro tecnologia e estou sempre explorando suas infinitas possibilidades. ✨</p>
+<p align="left">Olá, Bem vindo ao meu perfil!! eu sou o Riniel Rodrigo, adoro tecnologia e estou sempre explorando suas infinitas possibilidades. ✨</p>
 
 ###
 
